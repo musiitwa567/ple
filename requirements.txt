@@ -1,0 +1,4 @@
+langchain
+streamlit
+dotenv
+qdrant_client
