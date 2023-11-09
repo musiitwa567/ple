@@ -7,7 +7,7 @@ from langchain.vectorstores import Qdrant
 from langchain.embeddings import GooglePalmEmbeddings
 import qdrant_client
 import os
-os.environ["HUGGINGFACEHUB_API_TOKEN"]="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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"]=""
  
 
 def get_vector_store():
